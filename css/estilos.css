@@ -1,0 +1,39 @@
+body{
+    background-image: url(../img/board-453758_640.jpg);
+}
+
+
+
+div.fondo{
+    background-color: rgb(191, 199, 177);
+    color: rgb(29, 87, 14);
+
+    font-family: arial black
+    ;
+}
+
+div.iconos i{
+    font-size: 40px;
+}
+
+div.fondo a{
+    color: rgb(21, 116, 26);
+
+}
+
+div.columna1,.columna2,.columna3 {
+    background-color: bisque;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+div.iconos{
+    background-color: rgb(235, 229, 147);
+    padding: 50px;
+    margin: 100px;
+}
+
+div.imagenesf,.imagenesf2 {
+    font-family: arial black;
+}
